@@ -1,3 +1,3 @@
 # demo
 this is my first git repository
-author-yashika rahinj
+Author-yashika rahinj
